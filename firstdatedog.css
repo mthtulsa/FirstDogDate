@@ -1,0 +1,109 @@
+#viewport
+{
+	position: absolute;
+	width: 1020px;
+	height: 780px;
+	background-color: white;
+	border: 1px solid black; 
+}
+
+#banner
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: olive;
+	width: 1020;
+	height: 200px;
+}
+
+#navbar
+{
+	position: relative;
+	top: 200px;
+	left: 0px;
+	background-color: maroon;
+	width: 1020;
+	height: 25px;
+}
+
+#box1
+{
+	position: absolute;
+	top: 250px;
+	left: 10px;
+	background-color: orange;
+	width: 200px;
+	height: 200px;
+	border: 2 solid black;
+}
+
+#concept
+{
+	position: absolute;
+	top: 250px;
+	left: 220px;
+	background-color: maroon;
+	width: 560px;
+	height: 275px;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+#box2
+{
+	position: absolute;
+	top: 250px;
+	left: 810px;
+	width: 200px;
+	height: 200px;
+	border: 2 solid black;
+}
+
+#enroll
+{
+	position: absolute;
+	top: 525px;
+	left: 450px;
+	background-color: maroon;
+	width: 100px;
+	height: 20px;
+}
+
+#blackdog
+{
+	position: absolute;
+	top: 575px;
+	left: 80px;
+	width: 100px;
+	height: 100px;
+}
+
+#blackdog2
+{
+	position: absolute;
+	top: 575px;
+	left: 700px;
+	width: 100px;
+	height: 100px;
+}
+
+#footer
+{
+	position: absolute;
+	top: 100%;
+	left: 0px;
+	background-color: black;
+	font color: white;
+	width: 1020px;
+	height: 100px;
+}
+
+#calendar
+{
+	position: absolute;
+	top: 10px;
+	left: 290px;
+	width: 280px;
+	height: 255px;
+}
